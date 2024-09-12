@@ -1,4 +1,4 @@
-# README: Estimating Tree Height, Biomass, and Carbon Stock
+# README: Estimating Tree Height, Biomass, and Carbon Stock (TUTORED PROJECT SUPERVISED BY THE FACULTY OF AGRICULTURE AT THE CATHOLIC UNIVERSITY OF BUKAVU)
 
 ## Overview
 
